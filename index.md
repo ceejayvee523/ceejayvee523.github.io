@@ -1,7 +1,7 @@
 # Paragraph
 I am Carter Vail, I went to Saugerties High School in Saugerties, NY. My family consists of my mother and father, my two younger sisters and myself. We also have two cats, although I am more of a dog person myself. At my highschool I played tennis and soccer. I also co-founded our robotics club and was a captain of a robotics team. The thing I enjoy doing most in my free time is playing video games with my friends, I am currently very into Rocket League and Among Us. My favorite color is orange for no reason other than I like it, it also happens to be my dad's favorite color. My favorite food is mac and cheese.
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpleveganblog.com%2Fvegan-mac-and-cheese%2F&psig=AOvVaw2uvmNPr3Fn0GDQ8jmLaVXp&ust=1601585134970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODr3trfkewCFQAAAAAdAAAAABAD]
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimpleveganblog.com%2Fvegan-mac-and-cheese%2F&psig=AOvVaw2uvmNPr3Fn0GDQ8jmLaVXp&ust=1601585134970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODr3trfkewCFQAAAAAdAAAAABAD]
 
 #
 
